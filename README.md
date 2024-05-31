@@ -10,9 +10,13 @@ This repository provides the essential code for atom infill and phonon spectrum 
 All templates with 3-4 asymmetric units generated in our work are available as open-source resources on the [Hugging Face dataset](https://huggingface.co/datasets/caobin/CGWGAN).
 
 **Contact Information:**
+
 Mr. SU Tianhao  
+
 Email: thsu0407@gmail.com
+
 Mr. Cao Bin  
+
 Email: bcao686@connect.hkust-gz.edu.cn
 
 
