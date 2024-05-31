@@ -7,7 +7,7 @@ In this study, we present the Crystal Generative framework based on the Wyckoff 
 
 This repository provides the essential code for atom infill and phonon spectrum calculations, which are crucial for supporting CGWGAN.
 
-All templates with 3-4 asymmetric units generated in our work are available as open-source resources on the [Hugging Face dataset](https://huggingface.co/datasets/caobin/CGWGAN).
+All templates with 3-4 asymmetric units generated in our work are available as open-source resources on the [Hugging Face CGWGAN](https://huggingface.co/datasets/caobin/CGWGAN).
 
 **Contact Information:**
 
