@@ -38,10 +38,6 @@ If you utilize the data or code from this repository, please reference our paper
 ```python
 file_path = "path_2_db"
 db_path = f"{file_path}/data.db"
-
-Execution
-Execute the following commands:
-
 cif_processor = CIFProcessor(file_path)
 structure_processor = StructureProcessor(file_path, db_path)
 cif_processor.process_files()
