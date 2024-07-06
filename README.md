@@ -9,7 +9,14 @@ This repository provides the essential code for atom infill and phonon spectrum 
 
 All templates with 3-4 asymmetric units generated in our work are available as open-source resources on the [datasets CGWGAN](https://huggingface.co/datasets/caobin/CGWGAN).
 
+## Operation and display db file 
+```
+# pip install CryDBkit
 
+from CryDBkit import website
+
+website.show('open.db')
+```
 ### Prerequisites
 
 - Install `phonopy`, `pymatgen`, `ase`, and the surrogate model such as `m3gnet`.
