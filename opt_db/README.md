@@ -1,6 +1,4 @@
 
-## Overview
-
 The `run_all.py` script is designed to streamline the processing of CIF (Crystallographic Information File) files and the subsequent handling of structural data. This script performs several key tasks, including processing CIF files, filtering and cleaning data, and conducting structural analyses. The results are then stored in a SQLite database for further use.
 
 ## File Paths Configuration
