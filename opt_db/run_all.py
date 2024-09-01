@@ -172,8 +172,8 @@ class StructureProcessor:
         
 
 
-
-path = file_path =  "C:/Users/Suth-galaxy/Desktop/ASUGPT/Gen_Crystal/gen_files_9"
+############################################################    
+path = file_path =  "./your_file_path"
 db_path = f"{file_path}/data.db"
 cif_processor = CIFProcessor(path)
 structure_processor = StructureProcessor(file_path, db_path)

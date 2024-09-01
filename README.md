@@ -3,28 +3,23 @@
 
 ## Crystal Generative Framework based on Wyckoff Generative Adversarial Network
 
-In this study, we present the Crystal Generative framework based on the Wyckoff Generative Adversarial Network (CGWGAN). CGWGAN employs a strategy focused on the generation of crystal templates, effectively masking the occupancy information of elements at specific sites within the crystal.
+We present the Crystal Generative Framework based on the Wyckoff Generative Adversarial Network (CGWGAN). CGWGAN utilizes a strategy that focuses on generating crystal templates while effectively masking the occupancy information of elements at specific sites within the crystal structure.
 
-This repository provides the essential code for atom infill and phonon spectrum calculations, which are crucial for supporting CGWGAN.
+## Resources
 
-All templates with 3-4 asymmetric units generated in our work are available as open-source resources on the [datasets CGWGAN](https://huggingface.co/datasets/caobin/CGWGAN).
+- **Crystal templates**: Available on [Hugging Face](https://huggingface.co/datasets/caobin/CGWGAN).
+- **Novel crystal data**: Available on [Figshare](https://doi.org/10.6084/m9.figshare.26888884.v1).
+- **CGWGAN generator**: Located in the 'model' folder.
+- **Atom infill and high-throughput filter**: Found in the 'opt_db' folder.
 
-## Operate and display db file 
-```
-# pip install CryDBkit
-
-from CryDBkit import website
-
-website.show('open.db')
-```
 ### Prerequisites
 
-- Install `phonopy`, `pymatgen`, `ase`, and the surrogate model such as `m3gnet`.
+- Ensure that the following packages are installed: `phonopy`, `pymatgen`, `ase`, and a surrogate model such as `m3gnet`.
 
 ### Example Setup
 
 - This example uses `m3gnet` as the surrogate model.
-- Provide the path to the database storing structures with substituted elements.
+- Provide the path to the database that stores structures with substituted elements.
 - Specify this in the `run_all.py` file:
 
 ```python
@@ -37,19 +32,14 @@ cif_processor.clean()
 structure_processor.process_structures()
 ```
 
-## Contact Information:
+## Contact Information
 
-Mr. SU Tianhao  
+- **Mr. SU Tianhao**  
+  Email: thsu0407@gmail.com
 
-Email: thsu0407@gmail.com
+- **Mr. Cao Bin**  
+  Email: bcao686@connect.hkust-gz.edu.cn
 
-Mr. Cao Bin  
+## Acknowledgement
 
-Email: bcao686@connect.hkust-gz.edu.cn
-
-
-
-## Acknowledgement:
 If you utilize the data or code from this repository, please reference our paper (currently unpublished).
-
-
