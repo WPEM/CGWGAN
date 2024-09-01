@@ -32,14 +32,6 @@ cif_processor.process_files()
 
 - **`process_files()`**: This method processes the CIF files located at `path`. The specifics of this processing depend on the implementation of the `CIFProcessor` class. Generally, it involves extracting data from CIF files and preparing it for further analysis.
 
-## Filtering Data
-
-```python
-#### Quickly filter for target systems with reasonable placeholders
-#### (The specifics of this filtering would depend on the implementation of `process_files`)
-```
-
-- **Filtering**: After processing the CIF files, the script may apply filters to focus on specific target systems. The exact criteria for filtering are determined by the implementation of the `process_files()` method. The placeholders used in this filtering process are meant to simplify the initial data set.
 
 ## Cleaning Processed CIF Files
 
