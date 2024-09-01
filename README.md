@@ -20,7 +20,7 @@ We present the Crystal Generative Framework based on the Wyckoff Generative Adve
 
 - This example uses `m3gnet` as the surrogate model.
 - Provide the path to the database that stores structures with substituted elements.
-- Specify this in the `run_all.py` file:
+- Specify this in the `./opt_db/run_all.py` file:
 
 ```python
 file_path = "path_2_db"
