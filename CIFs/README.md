@@ -1,14 +1,35 @@
-DOI: 10.6084/m9.figshare.26888884
 
-This dataset and its contents (hereinafter referred to as "the Data") are the copyrighted property of Guangzhou Municipal Key Laboratory of Materials Informatics (hereinafter referred to as "the Copyright Holder"). The Copyright Holder retains all rights to the Data, and any reproduction, modification, distribution, display, or use of the Data without explicit permission is strictly prohibited.
+# Discovered 7 Novel Structures
 
-By using this Data, you agree to the following terms:
+This repository contains data on 7 newly discovered crystal structures, listed below:
 
-1. **Permitted Use**: Users may freely use this Data for educational, research, and non-commercial purposes, provided that the original copyright statement is preserved in its entirety, and proper attribution is given to the source.
+| Composition | Space Group (SG) | Point Group (PG) | Total Atoms | Formation Energy (Ef) |
+|-------------|------------------|------------------|-------------|-----------------------|
+| BaRuO₆      | P1 (1)           | 1                | 8           | -2.01 eV              |
+| BaRuO₃      | Pmm2 (25)        | mm2              | 5           | -1.93 eV              |
+| BaRu₂O₃     | Cmm2 (35)        | mm2              | 6           | -1.94 eV              |
+| BaRuO₂      | Immm (71)        | mmm              | 4           | -1.87 eV              |
+| BaRuO₃      | P4mm (99)        | 4mm              | 5           | -1.97 eV              |
+| BaRuO₃      | P4/mmm (123)     | 4/mmm            | 5           | -1.97 eV              |
+| Ba₃Ru₃O₉    | R3̅m (166)       | 3̅m              | 15          | -2.04 eV              |
 
-2. **Prohibition of Commercial Use**: The Data may not be used for any commercial purposes without prior written consent from the Copyright Holder.
+DOI for dataset: [10.6084/m9.figshare.26888884](https://doi.org/10.6084/m9.figshare.26888884)
 
-3. **Disclaimer of Liability**: The Data is provided "as is" for informational purposes only. The Copyright Holder makes no warranties, express or implied, regarding the accuracy, completeness, or any potential consequences of using the Data.
+## Usage Terms and Conditions
 
-4. **Modification and Redistribution**: Users may not modify, republish, or integrate this Data into other datasets for public use without written permission from the Copyright Holder.
+This dataset (hereinafter referred to as "the Data") is the intellectual property of the **Guangzhou Municipal Key Laboratory of Materials Informatics, HKUST(GZ)** (hereinafter referred to as "the Copyright Holder"). Use of this Data is subject to the following terms:
+
+1. **Permitted Use**  
+   The Data may be used freely for educational, research, and non-commercial purposes, provided that proper attribution is given, and the original copyright statement is included in its entirety.
+
+2. **Prohibition of Commercial Use**  
+   The Data may not be used for commercial purposes without explicit prior written consent from the Copyright Holder.
+
+3. **Disclaimer of Liability**  
+   The Data is provided "as is" without any warranty of accuracy, completeness, or fitness for a particular purpose. The Copyright Holder assumes no liability for any consequences arising from the use of this Data.
+
+4. **Modification and Redistribution**  
+   Modification or redistribution of this Data for public use is prohibited without prior written permission from the Copyright Holder.
+
+For any questions or requests for permission, please contact the corresponding author.
 
