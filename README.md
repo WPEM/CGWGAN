@@ -1,5 +1,5 @@
 
-# CGWGAN
+# [CGWGAN](https://www.oaepublish.com/articles/jmi.2024.24?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 ## Crystal Generative Framework based on Wyckoff Generative Adversarial Network
 
