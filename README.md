@@ -42,4 +42,4 @@ structure_processor.process_structures()
 
 ## Acknowledgement
 
-If you utilize the data or code from this repository, please reference our paper (currently unpublished).
+If you utilize the data or code from this repository, please reference [our paper](https://www.oaepublish.com/articles/jmi.2024.24?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com).
