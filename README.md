@@ -1,5 +1,5 @@
 
-# [CGWGAN](https://www.oaepublish.com/articles/jmi.2024.24?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
+# CGWGAN | [Paper](https://www.oaepublish.com/articles/jmi.2024.24?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com)
 
 ## Crystal Generative Framework based on Wyckoff Generative Adversarial Network
 
@@ -43,3 +43,16 @@ structure_processor.process_structures()
 ## Acknowledgement
 
 If you utilize the data or code from this repository, please reference [our paper](https://www.oaepublish.com/articles/jmi.2024.24?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com).
+
+```
+@article{su2024cgwgan,
+  title={CGWGAN: crystal generative framework based on Wyckoff generative adversarial network},
+  author={Su, Tianhao and Cao, Bin and Hu, Shunbo and Li, Musen and Zhang, Tong-Yi},
+  journal={Journal of Materials Informatics},
+  volume={4},
+  number={4},
+  pages={N--A},
+  year={2024},
+  publisher={OAE Publishing Inc.}
+}
+```
